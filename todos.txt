@@ -1,0 +1,2 @@
+1. Implement an actual logic of uploading match stats to a remote web server, implement an actual web server itself.
+2. Implement lobby data fetching from a remote web server.
