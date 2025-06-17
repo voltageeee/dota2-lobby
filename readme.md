@@ -22,3 +22,5 @@ TODOS:
 2. Fetch the match details for a proper lobby setup from a remote web server.
 3. Post the match details on a remote web server.
 ```
+
+i completely forgot to mention the guy who initially wrote this plugin for sourcemod and helped me HELLA LOT throughout the way: https://github.com/psychonic/d2lobby2. this wouldn't be possible without him and i'm eternally grateful to him.
