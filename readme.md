@@ -1,4 +1,4 @@
-# This is an internal Dota 2 server-side plugin that "injects" a lobby object into your server, making the dota game coordinator think that you are hosting a legitimate game.
+# This is an internal Dota 2 server-side plugin that "injects" a lobby object into your server, making the server think that you are hosting a legitimate game with lobby from real gc
 
 !!! WARNING !!! This was intentionally made for an older game version (7.30e), as i was interested in putting up a working legacy server. In the near future, I will make some adjustments in order for it to work properly for the current game version.
 
